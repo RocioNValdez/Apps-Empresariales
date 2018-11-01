@@ -1,0 +1,12 @@
+imagen1->
+   	Primero instalamos composer en xamp o wamp64 , luego verificamos que este instaladoa traves de un comando.
+imagen2->
+	Tenemos instalado el sublime text, seleccionamos la primera opcion  para poner en marcha el programa.
+imagen3->
+	instalamos paquetes para el programa como sublimecode .
+imagen4->
+	Tenemos el paquete control messages , el cual vamos a instalar.
+imagen5->
+	Vemos como se instala el paquete.
+
+	
