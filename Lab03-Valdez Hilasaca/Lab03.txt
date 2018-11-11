@@ -1,0 +1,43 @@
+ Imagenes 
+Cap1
+	Creamos controladores, para que el gestor imagenes nos lleve a la bienvenida de la 
+	pagina,para poder hacer esto configuramos los controladores y las rutas.
+Cap2
+	Cambiamos la ruta para validado, en el archivo authenticate.php en la funcion handle
+	El archivo Authenticate se encarga de verificar que el usuario esté autenticado o no.
+	Como hemos cambiado nuestros controladores a castellano, tambien editamos el archivo
+	redirectauthenticate.php, que se encarga del autenticado cuando el usuario sea 
+	autenticado de manera correcta.
+Cap3
+	Mostramos el texto de la funcion index del controlador inicioController, el texto de
+	la pagina de iniciovalidado.
+Cap4 
+	Como se observa la redirección se hizo de manera automática al action “getInicio” del
+	controlador validación. Esto se debe a que el usuario no está “logeado” correctamente
+	y siempre se le mostrará el formulario de inicio de sesión en caso de que la función 
+	handle del Middleware Authenticate no lo valide como tal.
+	
+Cap5
+	De esta manera estamos diciendo que, sin importan que el usuario se encuentre “logeado”
+	, se acceda a la petición recibida en los parámetros recibidos.
+Cap6
+	Ingresamos un URL que no existe.En efecto se produce una excepción, sin embargo, no es
+ 	un error 404 (not found page), que es lo que tenemos en el controlador de foto en su función missingMethod. 
+Cap7
+	Editamos ,para que en lugar de que nos de ese error nos muestre un mensaje not found page.
+Cap8
+	Agregamos al codigo para que nos de una interfaz en la cual podemos registranos y hacer
+	inicio de sesion.
+Cap9
+	Aqui nos muestra que al apretar el boton de inicio de sesion nos manda a esta pestaña.
+Cap10
+	En esta otra pestaña nos manda  el boton registrarse.
+
+Cap11 
+	Luego editamos algunos archivos mas y al ir al inicio de sesion nos manda a una interfaz
+	en la que llenamos con nuestro email y la contraseña.
+Cap12 
+	En esta otra imagen vemos a donde nos manda si seleccionamos el boton de registrarnos.		
+	  
+
+	
