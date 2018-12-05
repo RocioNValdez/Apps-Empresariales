@@ -1,0 +1,10 @@
+Captura1
+	En la foto tenemos dos albumes creados, de los cuales eliminaremos la gran manzana.
+Captura2
+	Vemos que al eliminar el album la gran manzana nos sale el mensaje de " el album ha 
+	sido eliminado".
+Captura3
+	En este caso eliminaremos una imagen, tenemos dos d ela cual escogemos "mushhumu", 
+	y click en eliminar.
+Captura4
+	Nos retorna el mensaje de la foto fue eliminada.

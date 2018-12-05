@@ -1,0 +1,15 @@
+- Implementamos la funcionalidad del verbo GET al momento de querer actualizar
+ el perfil de usuario.
+-Podemos actualizar el perfil, la contraseña, nombre, pregunta, respuesta .
+- Importamos la librería Auth ya que ésta, contiene la información del usuario 
+ autenticado.
+- El usuario puede o no cambiar el nombre, pero la única manera de comprobar 
+ o asegurarnos de que la información sea procesada de manera correcta es asigná
+ dandole el nuevo nombre que recibimos del request al atributo nombre del usuario
+ recibido.
+-Destacamos que $albumes es una colección de objetos de tipo álbum y que ahora
+ se encuentran en la variable $albumes. 
+- Si entramos a los albumes y no tenemos , nos retornara una opcion que diga que
+ debemos crear un album.
+-“MostrarFotosRequest” Para poder mostrar las fotos que estan dentros de los albumes.
+- En mi caso en el album 0 o usuario email0, no me toco dentro ningun album.

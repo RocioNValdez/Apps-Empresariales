@@ -1,0 +1,9 @@
+Captura1
+	La foto de "mi bebe", daremos click a editar foto.
+Captura2
+	Cambiamos el nombre de la foto, la descripcion, y 
+	otra imagen, luego damos click en actualizar imagen.
+Captura3
+	En el resultado nos retorna, la foto fue editada, el
+	 nombre y la configuracion por lo que cambiamos.
+	

@@ -1,0 +1,12 @@
+- Para poder migrar a la base de datos tenemos que crear primero archivos.
+- Ciertamente la tabla usuarios debe ser creada y está contemplada
+ por Laravel, sin embargo, los campos no son los mismos del todo.
+- Creamos seeders
+- Creamos un ciclo for para crear 50 usuarios al azar en la
+ base de datos. No consideramos su ID porque es autogenerado.
+-  Pusimos un mensaje de exceso de tiempo sin actividad en el tipo 
+de error Token… por que el token de un formulario cambia si pasa mucho tiempo. 
+- la función validator(), se encarga de verificar que, al momento del registro
+ de un usuario, se reciban los campos correspondientes.
+postRecuperar(), es una función que se ejecutará mediante el verbo POST, éste 
+action servirá para guardar los cambios en caso de querer modificar una contraseña. 

@@ -1,0 +1,7 @@
+-El campo “id” es requerido y tiene que existir en la tabla albumes en 
+ su columna id.
+- El “ActualizarFotoRequest” para actualizar el nombre de la  foto y la descripcion.
+-La función authorize(), de este request será el mismo que se encuentra
+ en la función authorize().
+- El postActualizarFoto para editar, el nombre,descripcion e imagen.
+Al editar la imagen , nos retorna una el mensaje de la foto fue editada.

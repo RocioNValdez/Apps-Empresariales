@@ -1,0 +1,17 @@
+Captura1
+	Ingresamos con una cuenta registrada , para crear un album.
+Captura2
+	Damos click en el boton crear album, porque no tenemos ninguno.
+Captura3
+	Creamos el album "Mi bebe", con una descripcion, damos click en crear.
+Captura4
+	Nos retorna el "album ha sido creado", y abajo el nombre del album y la descripcion
+	y con el boton"Ver fotos".
+Captura5
+	Al ingresar en "ver fotos", nos da un mensaje que dice"Al parecer el album no tiene 
+	fotos".
+Captura6
+	Creamos la foto, ponemos el nombre , una descripcion, podemos subir una foto desde 
+	nuestra pc,luego damos click en subir y crear foto.
+Captura7
+	Vemos la foto creada, el nombre de la foto y debajo la descripcion.

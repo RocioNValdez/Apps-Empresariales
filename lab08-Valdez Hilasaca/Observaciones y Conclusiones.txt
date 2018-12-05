@@ -1,0 +1,6 @@
+- En el lab podemos crear mas albumes, asi como tambien eliminarlos.
+- Al igual en las fotos podemos crear mas dentro de un album y eliminarlas.
+- El método getEliminarAlbum para poder eliminar el album o varios albumes.
+- Eliminaremos algunas fotos de los albumes con la clase eliminarfotorequest.
+- Agregamos un texto , para que despues de eliminar una foto nos retorne el 
+  texto, la foto fue eliminada.

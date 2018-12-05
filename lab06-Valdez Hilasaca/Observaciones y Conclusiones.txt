@@ -1,0 +1,9 @@
+- Creamos un Request de nombre “CrearAlbumRequest” para tener la funcion de crear
+ uno o mas albumes a traves de cada usuario.
+- En los albumes existe el boton ver fotos.
+- El método getCrearFoto(), debe recibir el id del álbum al que va a pertenecer.
+- La función authorize será la misma que utilizamos en MostrarFotoRequest, ya que
+ lo que queremos comprobar es que ese id de álbum le pertenece al usuario loggeado
+ actualmente.
+- La librería Carbon,sirve para obtener fechas y horas actuales y es nativa de Laravel. 
+- Podemos crear fotos dentro de los albumes junto con una descripcion.

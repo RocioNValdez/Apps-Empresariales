@@ -1,0 +1,17 @@
+Captura1
+	Ingresamos a la cuenta de Hazel, ya poidemos actualizar nuestro perfil o 
+	como se conoce editar, editaremos la cuenta de hazel.
+Captura2
+	Actualizamos nuestros datos, nombre, contraseña,pregunta y respuesta y 
+	damos cliuck en el boton actualizar.
+Captura3
+	Vemos que ahora la pagina nos da como resultado Cambios realizados, con
+	una bienvenida al nombre de usuario cambiado.
+Captura4
+	Tambien nos retorna un texto en el cual dice Su perfil ha sido Actualicado.
+Captura5
+	Ingresamos a mis albumes del usuario 40.
+Captura6
+	Vemos cada uno de los albumes, con diferentes nombres.
+Captura7
+	Ingresamos a un album y vemos sus fotos 	

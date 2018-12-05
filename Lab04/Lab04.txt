@@ -1,0 +1,25 @@
+Captura 1
+	Vemos los archivos con la base de datos que migraron.
+Captura 2
+	En phpmyadmin vemos la database  de gestor imagenes.
+Captura 3
+	Nos logueamos con los datos que tenemos en la base de datos, para ver el funcionamiento 
+	del inicio de sesion.
+Captura 4 
+	AQui vemos que al ingresar un dato que no esta registrado en la base de datos , o mal 
+	escrito ya sea el email o contraseña , nos retornara que algo salio mal.
+Captura 5
+	Si ingresamos con los datos correctos,nos dara la bienvenida con el nombre del usuario ingresado.
+
+Captura 6
+	Para registrarnos , colocamos nombre de usuario, correo, contraseña.
+Captura 7
+	Al registrarnos nos vuelve enviar a la pagina de bienvenida con el usuario registrado.
+Captura 8
+	Vemos en la base de datos los registros, los datos que se registraron.
+Captura 9 
+	Para recuperar contraseña debemos ingresar los datos correctos, cambiar la contraseña nueva.
+Captura 10
+	Si todo salio bien nos retornara un mensaje de "Cambios realizados".
+		 
+	
